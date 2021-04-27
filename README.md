@@ -2,4 +2,4 @@
 
 ## beranda
 
-> selamat datang di situs Hamster yang berisi apa saja !!
+selamat datang di situs Hamster yang berisi apa saja !!
